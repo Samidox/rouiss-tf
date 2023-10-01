@@ -22,5 +22,5 @@ resource "aws_instance" "pro-instance" {
 }
 
 resource "aws_iam_user" "abdo" {
-        name = "ABDO ROUISS"
+        name = "abdo-rouiss"
 }
