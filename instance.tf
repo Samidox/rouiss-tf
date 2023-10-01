@@ -26,5 +26,5 @@ resource "aws_iam_user" "abdo" {
 }
 
 resource "aws_iam_user" "abdo" {
-        name = "abdo"
+        name = "morocco"
 }
