@@ -18,5 +18,9 @@ resource "aws_instance" "pro-instance" {
           Name = "pro-ubuntu"
         }
 
-  
+
+}
+
+resource "aws_iam_user" "abdo" {
+        name = "ABDO ROUISS"
 }
