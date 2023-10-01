@@ -25,6 +25,6 @@ resource "aws_iam_user" "abdo" {
         name = "abdo-rouiss"
 }
 
-resource "aws_iam_user" "abdo" {
+resource "aws_iam_user" "morocco" {
         name = "morocco"
 }
